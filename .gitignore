@@ -3,7 +3,7 @@
 
 # Except specific files
 !.gitignore
-!.README.md
+!README.md
 
 # And override files
 !*overrides*
