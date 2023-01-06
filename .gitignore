@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+# Except specific files
+!.gitignore
+!.README.md
+
+# And override files
+!*overrides*
+
+# but still ignore distributed overrides
+*overrides*dist
+
+# and ignore the generated files
+*min*
