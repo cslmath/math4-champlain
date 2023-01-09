@@ -4,6 +4,7 @@
 # Except specific files
 !.gitignore
 !README.md
+!_theme-colors.scss
 
 # And override files
 !*overrides*
